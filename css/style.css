@@ -1,0 +1,26 @@
+#main{
+    border: 2px solid black;
+    width: 100%;
+    border-radius: 3px;
+    }
+    
+    #main table th{
+        border: 2px solid black;
+        padding: 4px 100px;
+        border-radius: 3px;
+    }
+    
+    tr td{
+        border: 2px solid black;
+        border-radius: 3px;
+    }
+    
+    td button{
+        padding: 2px 15px;
+        margin: 3px 6px;
+        border-radius: 5px;
+    }
+    
+    td button:hover{
+        cursor: pointer;
+    }
